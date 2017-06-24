@@ -1,6 +1,8 @@
 
 #include <iostream>
 
+#include "includes/QuoteParser.hpp"
+
 
 int main()
 {
